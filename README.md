@@ -32,8 +32,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [Add solution URL here](https://www.frontendmentor.io/solutions/componente-de-vista-previa-de-tarjetas-UUoqk71wTz)
+- Live Site URL: [Add live site URL here](https://rosagr01.github.io/ComponenteDeTarjetaDeVistaPrevia/)
 
 ## My process
 ```html
